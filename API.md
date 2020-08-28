@@ -12,7 +12,7 @@ Package Used: django-rest-knox
 POST http://127.0.0.1:8000/api/auth/register
 
 Content-Type: application/json
-
+```javascript
 {
     "first_name":"",
     "last_name":"",
@@ -21,17 +21,19 @@ Content-Type: application/json
     "password": "",
     "dob": ""
 }
+```
 
 ### Login User
 
 POST http://127.0.0.1:8000/api/auth/login
 
 Content-Type: application/json
-
+```javascript
 {
     "username": "",
     "password": ""
 }
+```
 
 ### Logout User
 
