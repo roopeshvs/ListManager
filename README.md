@@ -92,4 +92,4 @@ Head over to http://localhost:8000/ to use the List Manager.
 
 ### API Documentation
 
-To know about APIs, please visit [API.md](https://github.com/roopeshvs/ListManager/API.md)
+To know about APIs, please visit [API.md](https://github.com/roopeshvs/ListManager/blob/master/API.md)

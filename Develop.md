@@ -62,4 +62,4 @@ So, make sure your changes are reflected in the main.js file.
 
 ## API Endpoints
 
-To read about the API endpoints, [click here](https://github.com/roopeshvs/ListManager/API.md)
+To read about the API endpoints, [click here](https://github.com/roopeshvs/ListManager/blob/master/API.md)
