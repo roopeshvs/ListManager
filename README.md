@@ -2,6 +2,12 @@
 
 A List Manager Application created with Django.
 
+## Live Application
+
+Hosted at Python Anywhere
+
+http://listmanager.pythonanywhere.com/
+
 ## Running List Manager Locally
 
 ### Installing Python and Pipenv
