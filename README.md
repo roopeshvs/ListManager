@@ -10,7 +10,7 @@ http://listmanager.pythonanywhere.com/
 
 ## Running List Manager Locally
 
-### Installing Python and Pipenv
+### Installing Python
 
 Please download Python 3.8 from https://www.python.org/downloads/
 
